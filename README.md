@@ -1,5 +1,5 @@
 # About me 
-I've been a programmer for nearly 3 years and it's an amazing hobby of mine! I'm also a computer science student!
+Computer Science student at UNLV
 
 
 <p float="left">
